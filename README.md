@@ -12,6 +12,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+## Technologies Used
+
+HTML
+CSS
+TypeScript
+JavaScript
+Figma - https://www.figma.com/file/up5b4GiHACu67RMV3JSXK7/GitSearch?node-id=0%3A1
+
 ## Mobile support
 
 Gitsearch app is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
@@ -35,6 +43,8 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
 
+### Deployment
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -52,5 +62,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [MIT](https://github.com/Susan-Kathoni/gitsearch/blob/master/LICENSE.md)
 
 © [Susan Kathoni](https://github.com/Susan-Kathoni)
-
-# gitsearch
