@@ -1,4 +1,6 @@
-# GitSearch a user may enter a GitHub username into a form, submit it, see names and descriptions of that person's public repositories. The user can also look for repositories.
+# GitSearch
+
+This is an application where user may enter a GitHub username into a form, submit it, see names and descriptions of that person's public repositories. The user can also look for repositories.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
@@ -50,4 +52,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [MIT](https://github.com/Susan-Kathoni/gitsearch/blob/master/LICENSE.md)
 
 © [Susan Kathoni](https://github.com/Susan-Kathoni)
+
 # gitsearch
