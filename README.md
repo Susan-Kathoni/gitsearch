@@ -45,6 +45,12 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Deployment
 
+To deploy, follow the following steps:
+1. Create Github repository.
+2. Install angular-cli-ghpages - ($ npm i angular-cli-ghpages --save-dev).
+3. Run build - ($ ng build --prod --base-href "https://GithubUserName.github.io/GithubRepoName/" )
+4. Deploy to ghpages - ($ npx angular-cli-ghpages --dir=dist/Project-name)
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
