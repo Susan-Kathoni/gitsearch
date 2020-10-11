@@ -9,6 +9,9 @@ import { UserProfileComponent } from './user-profile/user-profile.component';
 import { DateCountPipe } from './date-count.pipe';
 import { SearchFormComponent } from './search-form/search-form.component';
 import { HighlightDirective } from './highlight.directive';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { AboutComponent } from './about/about.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +19,10 @@ import { HighlightDirective } from './highlight.directive';
     UserProfileComponent,
     DateCountPipe,
     SearchFormComponent,
-    HighlightDirective
+    HighlightDirective,
+    PageNotFoundComponent,
+    AboutComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

@@ -51,7 +51,7 @@ export class GitsearchService {
       name: string;
       description: string;
       html_url: string;
-      update_at: string;
+      updated_at: string;
       stargazers_count: number;
       watchers_count: number;
       language: string;
