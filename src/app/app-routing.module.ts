@@ -11,7 +11,7 @@ const routes: Routes = [
   { path: 'about', component: AboutComponent},
   { path: '', component: PageNotFoundComponent },
   
-  { path: '', redirectTo:"/home", pathMatch:"full"},
+  // { path: '', redirectTo:"/user-profile", pathMatch:"full"},
 ];
 
 @NgModule({
