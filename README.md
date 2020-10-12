@@ -14,11 +14,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Technologies Used
 
-HTML
-CSS
-TypeScript
-JavaScript
-Figma - https://www.figma.com/file/up5b4GiHACu67RMV3JSXK7/GitSearch?node-id=0%3A1
+1. HTML
+2. CSS
+3. TypeScript
+4. JavaScript
+5. Figma - https://www.figma.com/file/up5b4GiHACu67RMV3JSXK7/GitSearch?node-id=0%3A1
 
 ## Mobile support
 
