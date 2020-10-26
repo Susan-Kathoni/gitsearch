@@ -70,6 +70,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 
-[MIT](https://github.com/Susan-Kathoni/gitsearch/blob/master/LICENSE.md)
+[MIT](https://github.com/Susan-Kathoni/gitsearch/blob/master/LICENSE)
 
 © [Susan Kathoni](https://github.com/Susan-Kathoni)
